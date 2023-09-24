@@ -1,0 +1,24 @@
+.center {
+  font-size: larger;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.padding {
+  padding-left: 30px;
+}
+
+.childrenPadding {
+  padding-left: 5px;
+}
+
+.children {
+  margin: 12px;
+  background-color: #8a2be2;
+  padding: 5px 20px;
+  color: white;
+  font-size: x-large;
+  border-radius: 10px;
+}
